@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="fa">
 <head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> رزومه پگاه لطفی | مهندس نرم‌افزار </title>
@@ -143,17 +144,54 @@
       <li> تولید محتوا و مدیریت پیج اینستاگرام</li>
       <li> خدمات کافی‌نت آنلاین (ثبت‌نام، چاپ، فرم‌ها...)</li>
     </ul>
-    <p>📩 راه ارتباطی:</p>
-    <p>پیج اینستاگرام: <strong> @pegahdev </strong><br>کافینت آنلاین: <strong> @internetcafe7980 </strong></p>
-  </section>
 
-  <section class="container" id="contact">
-    <h2>اطلاعات تماس</h2>
-    <p><strong>ایمیل:</strong> pegahlotfi2000@gmail.com </p>
-    <p><strong>شماره تماس:</strong> 0939796xxxx </p>
-    <p><strong>لینکدین:</strong> <a href="http://www.linkedin.com/in/pegah-lotfi-5b0a05176" target="_blank"></a></p>
-    <p><strong>گیت هاب:</strong><a href="https://github.com/pegahlo79/" target="_blank"></a></p>
-  </section>
+    <section class="contact container">
+      <h2>راه‌های ارتباطی</h2>
+      <div style="font-family: Tahoma, sans-serif; line-height: 1.8; direction: rtl;">
+        <p>
+          <i class="fas fa-envelope" style="color: #EA4335; margin-left: 8px;"></i>
+          <strong>ایمیل:</strong>
+          <a href="mailto:pegahlotfi2000@gmail.com" style="text-decoration: none; color: #EA4335;">
+            pegahlotfi2000@gmail.com
+          </a>
+        </p>    
+        <p>
+          <i class="fas fa-phone" style="color: #34A853; margin-left: 8px;"></i>
+          <strong>شماره تماس:</strong>
+          <a href="tel:0939796xxxx" style="text-decoration: none; color: #34A853;">
+            0939796xxxx
+          </a>
+        </p>    
+        <p>
+          <i class="fab fa-instagram" style="color: #E1306C; margin-left: 8px;"></i>
+          <strong>اینستاگرام:</strong>
+          <a href="https://instagram.com/pegahdev" target="_blank" style="text-decoration: none; color: #E1306C;">
+            @pegahdev
+          </a>
+        </p>
+        <p>
+          <i class="fas fa-globe" style="color: #1DA1F2; margin-left: 8px;"></i>
+          <strong>کافینت آنلاین:</strong>
+          <a href="https://instagram.com/internetcafe7980" target="_blank" style="text-decoration: none; color: #1DA1F2;">
+            @internetcafe7980
+          </a>
+        </p>
+        <p>
+          <i class="fab fa-linkedin" style="color: #0A66C2; margin-left: 8px;"></i>
+          <strong>لینکدین:</strong>
+          <a href="http://www.linkedin.com/in/pegah-lotfi-5b0a05176" target="_blank" style="text-decoration: none; color: #0A66C2;">
+            linkedin.com/in/pegah-lotfi-5b0a05176/
+          </a>
+        </p>
+        <p>
+          <i class="fab fa-github" style="color: #171515; margin-left: 8px;"></i>
+          <strong>گیت هاب:</strong>
+          <a href="https://github.com/pegahlo79/" target="_blank" style="text-decoration: none; color: #171515;">
+            github.com/pegahlo79/
+          </a>
+        </p>
+      </div>
+    </section>
 
   <footer>
     <p>&copy; ۲۰۲۵ پگاه لطفی. تمامی حقوق محفوظ است.</p>
